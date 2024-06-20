@@ -1,0 +1,63 @@
+{
+    "aboutMe":"My name is Matthew Brown and I am a Lecturer at Life Choices",
+    "projects":[
+        {
+            "name":"Calculator",
+            "github":"link",
+            "vercel":"link",
+            "description":"I used ....",
+            "image":"URL"
+        },
+        {
+            "name":"BMI Calculator",
+            "github":"link",
+            "vercel":"link",
+            "description":"I used ....",
+            "image":"URL"
+        }
+    ],
+    "education":[
+        {
+            "description":"",
+            "year":"2nd April - to present/current",
+            "placeOfInstitution":"",
+            "contact":[
+                {
+                    "name":"Matthew",
+                    "contactDetails":""
+                }
+            ]
+        }
+    ],
+    "skills":[
+        {
+            "name":"HTML",
+            "image":"URL"
+        },
+        {
+            "name":"HTML",
+            "image":"URL"
+        }
+    ],
+    "workExp":[
+        {
+            "placeOfWork":"",
+            "year":"",
+            "description":"",
+            "contact":{
+                "name":"",
+                "cell":"",
+                "position":"",
+                "email":""
+            }
+        }
+    ],
+    "testimonials":[
+        {
+            "name":"",
+            "position":"",
+            "message":"",
+            "image":"URL"
+        }
+    ]
+}
