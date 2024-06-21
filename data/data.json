@@ -1,6 +1,6 @@
-{"data":[
-    {"aboutMe":"My name is Matthew Brown and I am a Lecturer at Life Choices"},
-    {"projects":[
+{"data":{
+    "aboutMe":"My name is Matthew Brown and I am a Lecturer at Life Choices",
+    "projects":[
         {
             "name":"Calculator",
             "github":"link",
@@ -15,8 +15,8 @@
             "description":"I used ....",
             "image":"URL"
         }
-    ]},
-    {"education":[
+    ],
+    "education":[
         {
             "description":"",
             "year":"2nd April - to present/current",
@@ -28,8 +28,8 @@
                 }
             ]
         }
-    ]},
-    {"skills":[
+    ],
+    "skills":[
         {
             "name":"HTML",
             "image":"URL"
@@ -38,8 +38,8 @@
             "name":"HTML",
             "image":"URL"
         }
-    ]},
-    {"workExp":[
+    ],
+    "workExp":[
         {
             "placeOfWork":"",
             "year":"",
@@ -51,13 +51,13 @@
                 "email":""
             }
         }
-    ]},
-    {"testimonials":[
+    ],
+    "testimonials":[
         {
             "name":"",
             "position":"",
             "message":"",
             "image":"URL"
         }
-    ]}
-]}
+    ]
+}}
